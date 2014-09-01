@@ -14,5 +14,6 @@ Check out the included ExampleUsage solution. Notice the pre-build event: "$(Sol
 
 You should replace "ExampleUsage" with the name of your app and "0000FF" with the real background color of your app.
 
+The utility assumes you have a Package.StoreAssociation.xml, you'll see an error if you don't.
 
 This is a quick fix/hack. I have used it with real Store app install and local dev version without problem, it works on my machine, your mileage may vary, use at own risk. Check out the LICENSE.txt for more information.
