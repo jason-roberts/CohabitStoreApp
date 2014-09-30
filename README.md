@@ -17,3 +17,12 @@ You should replace "ExampleUsage" with the name of your app and "0000FF" with th
 The utility assumes you have a Package.StoreAssociation.xml, you'll see an error if you don't.
 
 This is a quick fix/hack. I have used it with real Store app install and local dev version without problem, it works on my machine, your mileage may vary, use at own risk. Check out the LICENSE.txt for more information.
+
+
+--------
+
+## About Jason Roberts
+
+Jason Roberts is a Microsoft MVP, [Pluralsight course author](http://bit.ly/psjasonroberts) and Journeyman Software Developer with over 12 years experience.
+
+He is the author of the books [Keeping Software Soft](http://keepingsoftwaresoft.com)) and [C# Tips](http://bit.ly/sharpbook) and writes at his blog [DontCodeTired.com](http://dontcodetired.com).
